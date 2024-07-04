@@ -1,5 +1,8 @@
 //Assignmemt 07
 
+//number opreations division ,multiplication , addition ,subtraction
+
+
 let additionResult :number = 5+3;
 
 console.log("additionResult", additionResult);
